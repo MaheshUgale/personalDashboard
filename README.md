@@ -48,8 +48,9 @@ cd personalDashboard
 npm install
 npm install -g json-server
 
-# for accessing db - go to db folder in project and run below command 
+# for accessing db - go to db folder in project and run below command or if you get any error please use second command or change portname in command(4000 in this place).
 npx json-server --watch db.json
+npx json-server --watch db.json --port 4000
 
 #Now go to root folder and open command promt and run below command, You will get link copy and paste in browser tab.
 npm run dev
