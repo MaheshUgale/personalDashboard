@@ -35,7 +35,7 @@ List the main features and functionalities of the project.
 
 ## Installation
 
-Provide instructions on how to install and set up the project locally. Include any prerequisites, dependencies, or configuration steps needed.
+Please follow Installation and project running process below -
 
 ```bash
 # Clone the repository
