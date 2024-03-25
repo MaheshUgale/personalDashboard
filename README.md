@@ -52,5 +52,5 @@ npm install -g json-server
 npx json-server --watch db.json
 
 #Now go to root folder and open command promt and run below command, You will get link copy and paste in browser tab.
-npm run serve
+npm run dev
 
